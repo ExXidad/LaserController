@@ -1,0 +1,5 @@
+/Users/xidad/CLionProjects/LaserController/cmake-build-nucleo_f429zi/CMakeFiles/rebuild_cache.dir
+/Users/xidad/CLionProjects/LaserController/cmake-build-nucleo_f429zi/CMakeFiles/edit_cache.dir
+/Users/xidad/CLionProjects/LaserController/cmake-build-nucleo_f429zi/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/xidad/CLionProjects/LaserController/cmake-build-nucleo_f429zi/CMakeFiles/Debug.dir
+/Users/xidad/CLionProjects/LaserController/cmake-build-nucleo_f429zi/CMakeFiles/Production.dir
