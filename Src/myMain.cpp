@@ -5,7 +5,7 @@ LaserController laserController;
 
 [[noreturn]] int myMain()
 {
-    laserController = LaserController(&huart3, rxBuffer);
+    laserController = LaserController(&huart3, rxBuffer, &htim2, TIM_CHANNEL_1);
 
     while (1)
     {
